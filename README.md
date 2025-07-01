@@ -1,5 +1,3 @@
-# sigma_forensic_tool
-
 # SIGMA CyberGhost - Advanced Linux Forensic Tool
 
 An all-in-one Linux forensic investigation toolkit with real-time threat protection, malware scanning, and system diagnostics designed for cybersecurity professionals.
@@ -25,3 +23,5 @@ cd linux-forensic-tool
 pip install -r requirements.txt
 
 pip install psutil
+
+
