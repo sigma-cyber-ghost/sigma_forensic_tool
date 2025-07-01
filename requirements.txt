@@ -1,0 +1,17 @@
+# SIGMA CyberGhost - Requirements
+psutil==5.9.4             # System monitoring/process management
+tkinter                   # GUI (usually pre-installed with Python)
+hashlib                   # Hashing (built-in)
+socket                    # Networking (built-in)
+re                        # Regex (built-in)
+threading                 # Multithreading (built-in)
+time                      # Time functions (built-in)
+datetime                  # Date handling (built-in)
+json                      # JSON parsing (built-in)
+math                      # Math operations (built-in)
+fcntl                     # File control (Unix, built-in)
+struct                    # Binary data (built-in)
+ctypes                    # C-compatible datatypes (built-in)
+collections               # Advanced containers (built-in)
+queue                     # Thread-safe queues (built-in)
+concurrent.futures        # Parallel tasks (built-in)
