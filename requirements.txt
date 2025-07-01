@@ -1,4 +1,0 @@
-tkinter
-psutil
-hashlib
-python-dateutil
