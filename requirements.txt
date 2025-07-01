@@ -1,0 +1,7 @@
+# Core requirement
+psutil>=5.8.0
+
+# Optional dependencies
+# python-magic>=0.4.24  # Better file type detection
+# pyinotify>=0.9.6      # Filesystem monitoring
+# scapy>=2.4.5          # Advanced network analysis
