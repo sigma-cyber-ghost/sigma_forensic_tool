@@ -16,7 +16,7 @@ An all-in-one Linux forensic investigation toolkit with real-time threat protect
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/sigma-cyber-ghost/linux-forensic-tool.git
+1. Clone the repository: git clone https://github.com/sigma-cyber-ghost/sigma_forensic_tool.git
 
 cd linux-forensic-tool
 
