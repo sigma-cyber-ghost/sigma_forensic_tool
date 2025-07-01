@@ -24,6 +24,8 @@ pip install -r requirements.txt
 
 pip install psutil
 
+sudo apt-get install python3-tk
+
 python3 sigma_forensic_tool.py
 
 
